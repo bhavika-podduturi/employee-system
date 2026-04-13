@@ -17,7 +17,7 @@ Bonuses are calculated in two steps:
 * Visual Studio Code
 
 ## Data Source and Cleaning
-The data was sourced from Kaggle, containing 1020 records and 12 columns. 
+The data was sourced from Kaggle, containing 1020 records and 12 columns. The cleaning included checking for and deleting any duplicate records, standardizing formats, handling missing and invalud values (e.g. 'N/A' -> 'NULL'), splitting combined columns for clarity and cases, calculating employee tenure in a new column, and applying cost of labor differentials based on region in a new column. The final results can be viewed in the Final_Employee_Bonus csv. 
 
 ## Needs of this project
 * HRIS analysts managing messy employee databases
