@@ -23,7 +23,7 @@ Bonuses are calculated in two steps:
 
 The interactive workforce dashboard is built on the cleaned employee dataset and is designed to answer one core question: which office locations are worth maintaining, and which populations can go fully remote?
 
-**View the live dashboard:** [Office Location Analytics Dashboard](https://public.tableau.com/views/OfficeAnalyticsDashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+**View the live dashboard:** [Office Location Analytics Dashboard](https://public.tableau.com/views/SaaSCompanyAnalytics/Navigation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Dashboard Charts
 
